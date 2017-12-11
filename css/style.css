@@ -1,0 +1,44 @@
+body{
+  margin-top: 60px;
+  background-color:rgb(0,121,76)
+}
+
+.general-background{
+  background-color:#d9d9d9;
+  width:80%;
+  padding:3%;
+}
+
+#title{
+  font-family:Comic Sans MS;
+  padding: 20px;
+  color: rgb(229,53,50); 
+}
+
+.subtitle{
+  font-family: Comic Sans MS;
+  color: black;
+  margin: 20px;
+}
+.content-box{
+  font-family:Comic Sans MS;
+  font-size=12px;
+}
+.content-box2{
+  font-family:Comic Sans MS;
+  font-size=10px;
+}
+
+.row{
+    overflow: hidden; 
+}
+
+.col-md-4 .inner-box{
+    margin-bottom: -99999px;
+    padding:5px 15px 99999px 15px;    
+}
+
+.col-md-4 img{
+  margin: auto;
+}
+
